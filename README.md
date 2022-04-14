@@ -1,6 +1,6 @@
 Temporary notes:
 
-1. use case of forms are: If we want submit button, text area, dropdowns etc.
+1. use case of forms are:  If we want submit button, text area, dropdowns etc.
 2. In dropdown options when we select an options ultimately the value parameter is passed to the backend.
 3. The querySelector() method returns the first element that matches a CSS selector.
 4. Add an event listener that fires when a user clicks a button.
